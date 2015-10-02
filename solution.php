@@ -1,4 +1,8 @@
 <?php
+/*
+	This code just displays the generated orders and the orders to be processed as of now.
+	I had some questions on the solution for allocating the inventory.
+*/
 // Initial inventory
 $inventory = array("A"=>15, "B"=>20, "C"=>22, "D"=>18, "E"=>30);
 // number of orders to be generated
